@@ -2,7 +2,7 @@
 
 This MIPS program will accept the user's input (integer 'x') and compute the numbers in the fibonacci sequence 'x' times.
 
-For example...
+### For example...
 
 User Input: 4
 
